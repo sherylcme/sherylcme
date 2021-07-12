@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @sherylcme
-- 👀 I’m interested in solving business problems with data and techology
+## Hi! 👋 I am Sheryl! ##
+
+Currently, I am working in Deloitte Consulting as an Analyst under Artifical Intelligence and Data offering.
+
+- 👀 I’m passionate about using data and technology for operational excellence and social good
 - 🌱 I’m currently learning technologies related to Data Engineering and Machine Learning
 - 📫 You can contact me at scme-9595@hotmail.com!
 
