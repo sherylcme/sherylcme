@@ -4,7 +4,7 @@ I graduated in 2019 from Singapore Management University with a Bachelor Degree 
 
 - 👀 I’m passionate about using data and technology for operational excellence and social good
 - 💕 I love to work on new technologies and things that I believe will make a positive impact
-- 🌱 Currently learning technologies related to Data Engineering and Machine Learning
+- 🌱 Currently enrolled into Standard University's Machine Learning Coursera Course
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sherylcme/)!
 
 <!---
