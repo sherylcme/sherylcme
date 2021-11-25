@@ -1,6 +1,6 @@
 ## Hi! 👋 I am Sheryl! ##
 
-I graduated from Singapore Management University with a Bachelor Degree of Science in Information Systems, with a second major in Advanced Analytics. Currently, I am working in one of the Big4 Consulting firms under Artifical Intelligence and Data practice. I am mainly involved in Business Intelligence, Data Analytics, Data Governance and Data Engineering related projects.
+I graduated from Singapore Management University with a Bachelor Degree of Science in Information Systems, with a second major in Advanced Analytics. Currently, I am a AI & Data Consultant working in one of the Big4 Consulting firms. I am mainly involved in Business Intelligence, Data Analytics, Data Governance and Data Engineering related projects.
 
 - 👀 I’m passionate about developing and implementing data-driven solutions
 - 💕 I love to learn and work with new technologies 
