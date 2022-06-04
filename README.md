@@ -4,7 +4,6 @@ I graduated from Singapore Management University with a Bachelor of Science in I
 
 - 👀 I’m passionate about developing and implementing data-driven solutions
 - 💕 I love to learn and work with new technologies 
-- 🌱 Currently enrolled into Stanford University's Machine Learning Coursera Course
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sherylcme/)!
 
 <!---
